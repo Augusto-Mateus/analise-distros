@@ -1,0 +1,20 @@
+Sistema,Versão,Kernel,Xorg/Wayland,Mesa,NVIDIA,Firefox,GUI
+Arch Linux,2024.07.01,6.9,Wayland,24.1,555.58,128,GNOME 46
+Manjaro,24.0.3 Wynsdey,6.9,Xorg,24.1,550.90,128,Plasma 6
+Debian,Debian 12,6.1,Wayland,22.3,535.183,115.13 esr,GNOME 43.9
+Ubuntu,Ubuntu 24.04 LTS,6.8,Wayland,24,550.90,128,GNOME 46
+Linux Mint,Linux Mint 22,6.8,Xorg,24,550.90,128,Cinnamon 6.2
+Pop!_OS,22.04 LTS,6.9,Xorg,24,555.58,128,GNOME 42.9
+Zorin OS,17.1,6.5,Wayland,23.2,550.90,128,Zorin Shell (GNOME 43.9)
+Tumbleweed,20240801,6.10,Xorg,24.1,550.100,128,Plasma 6.1
+Fedora,40 Workstation,6.9,Wayland,24.1,555.58,128,GNOME 46
+KDE Neon,6.0 (22.04),6.5,Wayland,23.2,550.90,129,Plasma 6.1
+elementary OS,7.1 Horis,6.5,Xorg,23.2,550.90,129,Pantheon
+Big Linux,2024_07_24_k69,6.10,Wayland,24.1,550.107,129,Plasma 6
+Regata OS,24 Artic Fox,6.9,Xorg,24.1,550.90,129,Plasma 6.1
+Bazzite,40,6.9,Wayland,24.1,560.35,129,Plasma 6.1
+Tuxedo OS,3,6.5,Xorg,24,550.90,129,Plasma 6.1
+Deepin,v23,6.6,Xorg,24.1,535.161,129,DDE 23
+MX Linux,23.3,6.9 Liquorix,Xorg,23.1,535.183,129,XFCE 4.18
+Vanilla OS,2 Orchird,6.9,Wayland,24.1,555.42,128,GNOME 46
+NixOS,Uakari 24.05,6.6,Wayland,24.1,550.78,129,GNOME 46
